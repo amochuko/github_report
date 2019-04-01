@@ -4,8 +4,8 @@
 
 # kindly run the following in command line inside the directory of the app
 
-#To install dependencies
+#To install dependencies: 
 npm i
 
-#To run app
+#To run app: 
 npm start
