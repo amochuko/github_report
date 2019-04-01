@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var Repo = /** @class */ (function () {
     function Repo(repo) {
         this.name = repo.name;
@@ -9,3 +10,4 @@ var Repo = /** @class */ (function () {
     }
     return Repo;
 }());
+exports.Repo = Repo;

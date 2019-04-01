@@ -1,7 +1,7 @@
 {
   "name": "github_report",
   "version": "1.0.0",
-  "description": "A simple api call to github.com for user's related details",
+  "description": "A simple cli api call to github.com for user's related details",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
