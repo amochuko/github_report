@@ -1,0 +1,20 @@
+{
+  "name": "github_report",
+  "version": "1.0.0",
+  "description": "A simple api call to github.com for user's related details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/index"
+  },
+  "author": "iamawhe",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.123",
+    "@types/request": "^2.48.1"
+  }
+}
